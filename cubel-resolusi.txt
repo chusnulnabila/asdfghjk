@@ -1,0 +1,4 @@
+Cubel Resolusi :
+- Konsisten belajar mengenai pemrograman
+- Ngerti make Git dan Github
+- Bikin project sendiri minimal 1
